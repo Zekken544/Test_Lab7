@@ -8,6 +8,8 @@
 - Үйлдлийн систем: Windows
 - Команд ажиллуулах орчин: PowerShell
 - `node -v` командын гаралт: `v25.5.0`
+- Вэб хөтөч: Microsoft Edge 155.0.4283.45 (64-bit)
+- Нотолгоо: [Node.js хувилбар](docs/node-version.txt), [браузерын хувилбар](docs/screenshots/browser-version.png)
 
 ## Зорилго
 
